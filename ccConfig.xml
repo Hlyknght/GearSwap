@@ -1,0 +1,31 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <ccignore>Rem&apos;s Tale*,Storage Slip *</ccignore>
+        <ccjobs>
+            <1>BLM</1>
+            <2>BLU</2>
+            <3>BRD</3>
+            <4>BST</4>
+            <5>COR</5>
+            <6>DNC</6>
+            <7>DRG</7>
+            <8>DRK</8>
+            <9>GEO</9>
+            <10>MNK</10>
+            <11>NIN</11>
+            <12>PLD</12>
+            <13>PUP</13>
+            <14>RDM</14>
+            <15>RNG</15>
+            <16>RUN</16>
+            <17>SAM</17>
+            <18>SCH</18>
+            <19>SMN</19>
+            <20>THF</20>
+            <21>WAR</21>
+            <22>WHM</22>
+        </ccjobs>
+        <ccskipBags>Storage,Temporary</ccskipBags>
+    </global>
+</settings>
