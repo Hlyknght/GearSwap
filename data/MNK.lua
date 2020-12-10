@@ -59,6 +59,7 @@ function job_setup()
 	state.Buff['Boost'] = buffactive['Boost'] or false
 	
 	state.AutoBoost = M(false, 'Auto Boost Mode')
+	state.AutoBoost = M(True, 'Auto Boost Mode')
 	
 	autows = 'Victory Smite'
 	autofood = 'Soy Ramen'
