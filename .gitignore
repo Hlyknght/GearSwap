@@ -33,3 +33,24 @@ libs/closetCleaner.lua
 Rename.bat
 Modes.lua
 organizer-lib.lua
+data/iterator.lua
+data/Fitchner/Goes_in_Gearswap_Data.zip
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/how_about_no.lua
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/iterator.lua
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/spam_protection.lua
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/spell_stack.lua
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/spellstack_settings/custom_settings.lua
+data/Fitchner/Goes_in_Gearswap_Data/Goes in Gearswap Data/spellstack_settings/default_settings.lua
+data/Fitchner/Goes_in_Gearswap_libs.zip
+data/Fitchner/Goes_in_Gearswap_libs/Goes in Gearswap libs/common_commands.lua
+data/Fitchner/spellstack_settings/custom_settings.lua
+data/Fitchner/spellstack_settings/default_settings.lua
+data/how_about_no.lua
+data/skillup.lua
+data/spam_protection.lua
+data/spell_stack.lua
+data/spellstack_settings/custom_settings.lua
+data/spellstack_settings/default_settings.lua
+libs/common_commands.lua
+libs/no_interruptions.lua
+ccConfig.xml
