@@ -237,7 +237,6 @@ autowstp = 1250
 
 My scripts\init.txt loads Request, which is an addon that can be used to answer player's requests, use it with the Shortcuts addon.
 It also loads a few other addons which I've written or found from other sources.
-Non-Official addon mentioned here can be downloaded from: https://www.dropbox.com/sh/qz5rb5je202cbu3/AAAxozfBv_8agarM0NCnPTiZa?dl=0
 
 --- Item Handling ---
 
@@ -294,7 +293,7 @@ skillchain1 - Tier 1 skillchain
 skillchain2 - Tier 2 skillchain
 skillchain3 - Only works on Fire element, does Liquefaction > Fusion
 skillchain4 - 4 Step skillchain for popping Perfidion
-skillchain6 - 6 Step Skillchain for popping Pluton (Requires you have a strategem up and 5 strategem charges to start)
+skillchain6 - 6 Step Skillchain for popping Pluton (Requires you have a stratagem up and 5 stratagem charges to start)
 wsskillchain - Attempts to start skillchain with a weaponskill and finish with a spell (for conserving stratagems).
 endskillchain - Attempts to end a skillchain with the current element.
 tier1 - Casts a tier 1 spell of that element.
